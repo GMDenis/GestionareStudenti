@@ -1,0 +1,11 @@
+C:\Users\Denis\source\repos\StudentManagerSolution\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\Denis\source\repos\StudentManagerSolution\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\Denis\source\repos\StudentManagerSolution\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\Denis\source\repos\StudentManagerSolution\StudentManager\obj\Debug\StudentManager.csproj.AssemblyReference.cache
+C:\Users\Denis\source\repos\StudentManagerSolution\StudentManager\obj\Debug\StudentManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denis\source\repos\StudentManagerSolution\StudentManager\obj\Debug\StudentManager.Properties.Resources.resources
+C:\Users\Denis\source\repos\StudentManagerSolution\StudentManager\obj\Debug\StudentManager.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\StudentManagerSolution\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\StudentManagerSolution\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\Denis\source\repos\StudentManagerSolution\StudentManager\obj\Debug\StudentManager.pdb
+C:\Users\Denis\source\repos\StudentManagerSolution\StudentManager\obj\Debug\StudentManager.Form1.resources
